@@ -1,0 +1,22 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Android imza anahtarları ve gizli bilgiler (asla commit edilmez)
+*.jks
+*.keystore
+keystore.properties
+android/key.properties
+
+# Android build çıktıları
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+*.apk
+*.aab

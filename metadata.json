@@ -1,0 +1,6 @@
+{
+  "name": "Böcek Firarda",
+  "description": "Gece mutfağından karanlık kilere, çarşı altgeçidinden çatıya uzanan ortam sesli ve böcek replikli sonsuz 3D koşu oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

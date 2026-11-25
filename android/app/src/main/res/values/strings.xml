@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bug Escape</string>
+    <string name="title_activity_main">Bug Escape</string>
+    <string name="package_name">com.bocekfirar.runner</string>
+    <string name="custom_url_scheme">com.bocekfirar.runner</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bildirim çubuğu ikonu: tek renk böcek silueti (Android sadece alfa kanalını kullanır) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Gövde -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M7.5,14.5a4.5,6 0 1,0 9,0a4.5,6 0 1,0 -9,0z" />
+    <!-- Kafa -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M10,6.6a2,2 0 1,0 4,0a2,2 0 1,0 -4,0z" />
+    <!-- Antenler ve bacaklar -->
+    <path android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.1"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M11,5.2Q8.5,2.2 5.8,1.6M13,5.2Q15.5,2.2 18.2,1.6M8,11.2L4.2,9.2M7.6,14.5L3.4,14.5M8,17.8L4.2,20.2M16,11.2L19.8,9.2M16.4,14.5L20.6,14.5M16,17.8L19.8,20.2" />
+</vector>

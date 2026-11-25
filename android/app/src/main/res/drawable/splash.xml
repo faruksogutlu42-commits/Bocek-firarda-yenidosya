@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native açılış zemini: oyunun koyu rengi. Tam ekran görsel + yükleme çubuğu web tarafında (SplashScreen.tsx). -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/splash_background" />
+</shape>
